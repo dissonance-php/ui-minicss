@@ -1,0 +1,20 @@
+{
+  "name": "dissonance/ui-minicss",
+  "description": "Mini css for dissonance (https://minicss.org)",
+  "authors": [
+    {
+      "name": "Angelos Chalaris",
+      "email": "chalarangelo@gmail.com",
+      "role": "creator",
+      "homepage": "https://minicss.org"
+    }
+  ],
+  "type": "library",
+  "version": "1.0.0",
+  "extra": {
+    "dissonance": {
+      "id": "ui_minicss",
+      "public_path": "assets"
+    }
+  }
+}
