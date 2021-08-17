@@ -1,5 +1,5 @@
 {
-  "name": "dissonance/ui-minicss",
+  "name": "dissonance/ui_minicss",
   "description": "Mini css for dissonance (https://minicss.org)",
   "authors": [
     {
@@ -11,6 +11,7 @@
   ],
   "type": "library",
   "version": "1.0.0",
+
   "extra": {
     "dissonance": {
       "id": "ui_minicss",
