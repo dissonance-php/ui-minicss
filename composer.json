@@ -1,6 +1,6 @@
 {
-  "name": "dissonance/ui_minicss",
-  "description": "Mini css for dissonance (https://minicss.org)",
+  "name": "symbiotic/ui_minicss",
+  "description": "Mini css for symbiotic (https://minicss.org)",
   "authors": [
     {
       "name": "Angelos Chalaris",
@@ -13,7 +13,7 @@
   "version": "1.0.0",
 
   "extra": {
-    "dissonance": {
+    "symbiotic": {
       "id": "ui_minicss",
       "public_path": "assets"
     }
